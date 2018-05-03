@@ -1,1 +1,2 @@
-# advanced_help_block
+# Advanced help block module.
+Drupal 8.
